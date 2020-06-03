@@ -1,0 +1,22 @@
+@font-face{
+    font-family: "Blenda";
+    src: url("Blenda\ Script.otf")
+  }
+
+
+#app {
+    display: block;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+
+h1 {
+    text-align: center;
+    font-family: Blenda;
+}
+
+.p-footer {
+    text-align: center;
+}
