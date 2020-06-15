@@ -1,4 +1,4 @@
-# COVID-19 WORLD DATA
+# Organize- Todo List
 > A simple application that shows a Todo List. Now you can remember about all the things that you need to do.
 
 ![Images of the app](./main1.png)
